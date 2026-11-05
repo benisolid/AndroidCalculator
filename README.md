@@ -37,7 +37,7 @@
 - Android Gradle Plugin 8.7.3
 - Minimum SDK: 24 | Target SDK: 35
 
-> توجه: پروژه هنوز روی دستگاه واقعی آزمایش نشده است. خروجی APK پس از اجرای موفق workflow قابل دریافت خواهد بود.
+
 
 ---
 
@@ -73,5 +73,3 @@ On every push or pull request targeting the `main` branch, the workflow runs the
 - Jetpack Compose and Material 3
 - Android Gradle Plugin 8.7.3
 - Minimum SDK: 24 | Target SDK: 35
-
-> Note: The app has not yet been tested on a physical device. The APK will be available after a successful workflow run.
